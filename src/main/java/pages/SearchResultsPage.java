@@ -1,7 +1,6 @@
 package pages;
 
 import org.openqa.selenium.By;
-
 import java.util.Hashtable;
 
 public class SearchResultsPage extends BasePage {
